@@ -15,8 +15,9 @@ make. Currently, Specter only officially supports Linux, but support for other
 platforms shouldn't require much modification to the code.
 
 ## Screenshots
-[[https://raw.githubusercontent.com/alexandrahurst/Specter/master/screenshots/screenshot_humming_main.png|alt=Normalized spectrogram of person humming]]
-[[https://raw.githubusercontent.com/alexandrahurst/Specter/master/screenshots/screenshot_humming_settings.png|alt=Settings for spectogram of person humming]]
+![Normalized spectrogram of person humming](screenshots/screenshot_humming_main.png?raw=true "Normalized spectrogram of person humming")
+![Settings for spectogram of person humming](screenshots/screenshot_humming_settings.png?raw=true "Settings for spectogram of person humming")
 
-[[https://raw.githubusercontent.com/alexandrahurst/Specter/master/screenshots/screenshot_musicbox_main.png|alt=Spectrogram from 0 to 80 dB of music box]]
-[[https://raw.githubusercontent.com/alexandrahurst/Specter/master/screenshots/screenshot_musicbox_settings.png|alt=Settings for spectogram of music box]]
+![Spectrogram from 0 to 80 dB of music box](screenshots/screenshot_musicbox_main.png?raw=true "Spectrogram from 0 to 80 dB of music box")
+![Settings for spectogram of music box](screenshots/screenshot_musicbox_settings.png?raw=true "Settings for spectogram of music box")
+
